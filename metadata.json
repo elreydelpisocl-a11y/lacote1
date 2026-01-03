@@ -1,0 +1,7 @@
+{
+  "name": "La Coté",
+  "description": "Un chat de voz con una joven de clase alta chilena, eufórica, fanática de la moda y los chismes, con acento y modismos típicos.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
